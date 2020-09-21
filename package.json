@@ -5,10 +5,15 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "ragu:build": "ragu-server build ragu-config.js",
+    "ragu:start": "ragu-server run ragu-config.js",
+    "ragu:dev": "ragu-server dev ragu-config.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "ragu-server": "^0.0.20",
+    "ragu-vue-server-adapter": "^0.0.20",
     "vue": "^2.6.11"
   },
   "devDependencies": {
