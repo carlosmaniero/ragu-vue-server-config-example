@@ -8252,10 +8252,10 @@ ragu-server@^0.0.19:
     webpack-node-externals "^2.5.2"
     yargs "^16.0.3"
 
-ragu-server@^0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/ragu-server/-/ragu-server-0.0.20.tgz#104f0e895edcb5452e0a9e0d05b2053ef9794e4a"
-  integrity sha512-dd+U2RfcE9M3MHZv0CIzjfBq6rSc6HuI3OXEamy9/xRVel5K1gjFBpsSwIbG0HA4Pa+SCcwECTt8nVmvzGM5vg==
+ragu-server@^0.0.22:
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/ragu-server/-/ragu-server-0.0.22.tgz#5ec89f3a6905092ad05dfd485fe4d50005849d6c"
+  integrity sha512-uTNjsLsM9hbZcLWgi9TjChiz6yczOIIpCyzDijagyHvfIWapVUaSbIauK0HfmRC+lvCvTsDwDSBdC09kzeVaaA==
   dependencies:
     "@types/webpack-node-externals" "^2.5.0"
     chalk "^4.1.0"
@@ -8269,10 +8269,10 @@ ragu-server@^0.0.20:
     webpack-node-externals "^2.5.2"
     yargs "^16.0.3"
 
-ragu-vue-server-adapter@^0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/ragu-vue-server-adapter/-/ragu-vue-server-adapter-0.0.20.tgz#9aedbca5d05bbd2b8865db0147a4f5be36c6cc3a"
-  integrity sha512-Vl1FjMuRa065Fp4HiVwPgOA2g6xgZ48M9CXPxLkf8CeVFknakguJAia+UE5JxtVE/haGc56wclEIe0EQLJNpkA==
+ragu-vue-server-adapter@^0.0.22:
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/ragu-vue-server-adapter/-/ragu-vue-server-adapter-0.0.22.tgz#8dfd6025b1d7384d34239bcb67160833bb30e79a"
+  integrity sha512-alnEIxWH0kghQ+zuJfcVWmvFaSD1knfs3grd4f0/F4bu3SjjCeL+XxIX9Bj8L7x4aW5tJxLghUpeQ2Be0DIK8A==
   dependencies:
     "@babel/core" "~7.2"
     "@babel/plugin-proposal-class-properties" "~7.3"
